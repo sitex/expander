@@ -23,7 +23,7 @@ Croogo::hookBehavior('Node', 'Expander.ExpanderCustomFields', array(
 	'priority' => 1,
 ));
 
-$title = 'Expander';
+$title = __d('expander', 'Expander');
 $element = 'Expander.admin/meta';
 $options = array(
 	'elementData' => array(

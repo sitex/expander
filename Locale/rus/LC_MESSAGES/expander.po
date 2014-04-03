@@ -15,3 +15,36 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "X-Poedit-Language: Russian\n"
 "X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+msgid "Expander"
+msgstr "Дополнительно"
+
+msgid "style"
+msgstr "Стиль"
+
+msgid "side"
+msgstr "Сторона"
+
+msgid "link"
+msgstr "Ссылка"
+
+msgid "normal"
+msgstr "Обычный"
+
+msgid "tall"
+msgstr "Высокий"
+
+msgid "left"
+msgstr "Слева"
+
+msgid "right"
+msgstr "Справа"
+
+msgid "white"
+msgstr "Светлый"
+
+msgid "black"
+msgstr "Темный"
+
+msgid "transparent"
+msgstr "Прозрачный"

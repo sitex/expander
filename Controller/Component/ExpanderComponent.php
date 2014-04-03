@@ -48,18 +48,18 @@ class ExpanderComponent extends Component {
 					$options = array();
 					$explode = explode(',', $params[$field]);
 					foreach ($explode as $value) {
-						$options[$value] = __d('sitex', $value);
+						$options[$value] = __d('expander', $value);
 					}
 
 					$keys[$field] = array(
-						'label' => __d('Expander', $field),
+						'label' => __d('expander', $field),
 						'options' => $options,
 						// 'type'  => 'textarea'
 					);
 				} else {
 					// input
 					$keys[$field] = array(
-						'label' => __d('Expander', $field),
+						'label' => __d('expander', $field),
 						// 'type'  => 'textarea'
 					);
 				}
