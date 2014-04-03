@@ -22,13 +22,3 @@ Croogo::hookComponent('*', 'Expander.Expander');
 Croogo::hookBehavior('Node', 'Expander.ExpanderCustomFields', array(
 	'priority' => 1,
 ));
-
-$title = __d('expander', 'Expander');
-$element = 'Expander.admin/meta';
-$options = array(
-	'elementData' => array(
-		'field' => 'body',
-	),
-);
-Croogo::hookAdminTab('Nodes/admin_add', $title, $element, $options);
-Croogo::hookAdminTab('Nodes/admin_edit', $title, $element, $options);
