@@ -41,10 +41,24 @@ msgid "right"
 msgstr "Справа"
 
 msgid "white"
-msgstr "Светлый"
+msgstr "Белый"
 
 msgid "black"
-msgstr "Темный"
+msgstr "Черный"
+
+msgid "white_bg"
+msgstr "Белая плашка"
+
+msgid "black_bg"
+msgstr "Черная плашка"
 
 msgid "transparent"
 msgstr "Прозрачный"
+
+msgid "white_nobg"
+msgstr "Черный текст без плашки"
+
+msgid "black_nobg"
+msgstr "Белый текст без плашки"
+
+
