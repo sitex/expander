@@ -40,11 +40,16 @@ msgstr "Слева"
 msgid "right"
 msgstr "Справа"
 
+
 msgid "white"
 msgstr "Белый"
 
 msgid "black"
 msgstr "Черный"
+
+msgid "transparent"
+msgstr "Прозрачный"
+
 
 msgid "white_bg"
 msgstr "Белая плашка"
@@ -52,13 +57,10 @@ msgstr "Белая плашка"
 msgid "black_bg"
 msgstr "Черная плашка"
 
-msgid "transparent"
-msgstr "Прозрачный"
-
 msgid "white_nobg"
-msgstr "Черный текст без плашки"
+msgstr "Белый текст без плашки"
 
 msgid "black_nobg"
-msgstr "Белый текст без плашки"
+msgstr "Черный текст без плашки"
 
 
