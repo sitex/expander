@@ -64,3 +64,9 @@ msgid "black_nobg"
 msgstr "Черный текст без плашки"
 
 
+msgid "special"
+msgstr "Специальная пометка"
+
+msgid "preview_image"
+msgstr "Номер фотографии для миниатюры"
+
