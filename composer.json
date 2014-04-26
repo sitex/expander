@@ -1,0 +1,21 @@
+{
+	"name": "sitex/expander",
+	"type": "cakephp-plugin",
+	"description": "The Expander plugin.",
+	"homepage": "http://github.com/sitex/expander",
+	"license": "none",
+	"authors": [
+		{
+			"name": "Ivan S",
+			"email": "gsitex@gmail.com",
+			"homepage": "http://github.com/sitex"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "Expander"
+	}
+}
