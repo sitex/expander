@@ -47,6 +47,11 @@ msgstr "Белый"
 msgid "black"
 msgstr "Черный"
 
+
+msgid "price"
+msgstr "Цена"
+
+
 msgid "transparent"
 msgstr "Прозрачный"
 
