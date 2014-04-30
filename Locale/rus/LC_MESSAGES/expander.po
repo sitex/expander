@@ -48,6 +48,13 @@ msgid "black"
 msgstr "Черный"
 
 
+msgid "none"
+msgstr "Нет"
+
+msgid "round"
+msgstr "Закруглённые углы"
+
+
 msgid "price"
 msgstr "Цена"
 
