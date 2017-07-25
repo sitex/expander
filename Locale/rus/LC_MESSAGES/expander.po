@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Croogo\n"
 "POT-Creation-Date: 2012-07-08 17:30+0700\n"
 "PO-Revision-Date: 2010-08-06 20:35+0300\n"
-"Last-Translator: Sitex <gsitex@gmail.com>\n"
+"Last-Translator: Sitex\n"
 "Language-Team: BS-Group <bs@bs-group.biz>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
@@ -81,4 +81,3 @@ msgstr "Специальная пометка"
 
 msgid "preview_image"
 msgstr "Номер фотографии для миниатюры"
-
