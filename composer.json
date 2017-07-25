@@ -6,9 +6,7 @@
 	"license": "none",
 	"authors": [
 		{
-			"name": "Ivan S",
-			"email": "gsitex@gmail.com",
-			"homepage": "http://github.com/sitex"
+			"name": "Sitex",
 		}
 	],
 	"require": {
